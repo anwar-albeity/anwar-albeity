@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anwar-albeity.github.io/sitemap.xml
