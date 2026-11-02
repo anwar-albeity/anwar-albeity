@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://anwar-albeity.github.io/sitemap.xml
+Sitemap: https://anwar.kampo.co.ke/sitemap.xml
